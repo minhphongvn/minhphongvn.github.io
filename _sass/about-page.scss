@@ -1,0 +1,27 @@
+@import './_fonts';
+
+.logo-readium {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    width: 48px;
+    height: 48px;
+    background-color: #000;
+    overflow: hidden;
+    z-index: 99;
+
+    .logo {
+        display: block;
+        position: absolute;
+        top: 8px;
+        left: 8px;
+        width: 32px;
+        height: 32px;
+        font-family: $fontheadings;
+        font-size: 30px;
+        font-weight: 600;
+        text-decoration: none;
+        color: #fff;
+        text-align: center;
+    }
+}

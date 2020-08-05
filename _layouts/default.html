@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{% if page.language %}{{ page.language | downcase }}{% else %}{{ site.language | downcase }}{% endif %}">
+{% include head.html %}
+
+<body>
+        {% include header.html %}
+        
+        <!-- This section handles the cover image -->
+        <div class="blog-cover {% if cover %} has-cover {% else %} no-cover {% endif %}"
+         {% if cover %} style="background-image: url({{ cover | prepend: site.github.url | prepend: site.baseurl}})" {% endif %}>
+          <div class='cover_overlay'>
+            <div class="content">
+              <h1>{{ site.title }}</h1>
+              {% if site.subtitle %}<h3>{{ site.subtitle }}</h3>{% endif %}
+              {% include social_short.html %}
+            </div>
+          </div>
+        </div>
+        {{ content }}
+        {% include footer.html %}
+</body>
+
+<script src="{{ site.github.url | prepend: site.baseurl}}/js/global.js"></script>
+</html>

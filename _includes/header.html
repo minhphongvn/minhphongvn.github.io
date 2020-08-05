@@ -1,0 +1,39 @@
+{% if page.cover %}
+{% assign cover = page.cover %}
+{% elsif site.cover %}
+{% assign cover = site.cover %}
+{% endif %}
+
+<!-- This section handles the automatic population of thge navigation bar at the top -->
+<header class="site-header">
+    <nav>
+        <ul>
+        <div class="forceleft">
+        <!-- This is an optional branded logo holder -->
+        <!-- <a class="brand" href="/">
+        <img src="/images/{{ site.info.logo }}" alt="Inc">
+        </a> -->
+        
+        <!-- This section manages the navigation bar-->
+        <a href="{{ site.github.url | prepend: site.baseurl}}/" title="Home">Home</a>
+        {% assign pages = site.pages | sort:"weight"  %}
+        {% for my_page in pages %}
+
+        {% if my_page.menutitle %}
+        {% assign title = my_page.menutitle %}
+        {% elsif site.title %}
+        {% assign title = my_page.title %}
+        {% endif %}
+
+        {% if title and my_page.visible != false %}
+        <a href="{{ my_page.url | prepend: site.github.url | prepend: site.baseurl}}" title="{{ title }}">{{ title }}</a>
+        {% endif %}
+        {% endfor %}
+        </div>
+        <!--Optionally add the name of the site in the top right -->
+        <!-- <div class="forceright">
+        <a href="{{ site.github.url | prepend: site.baseurl}}/" title={{site.title}}>{{site.title}}</a>
+        </div> -->
+        </ul>
+    </nav>
+</header>

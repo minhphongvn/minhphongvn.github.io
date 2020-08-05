@@ -5,7 +5,7 @@ default:
   name:          "minhphongvn"                    # used to display author name
   cover:         /assets/Cliffs.jpg                    # OPTIONAL: defines location of cover image in about page
   picture:       /assets/face.jpg                  # OPTIONAL: author picture
-  bio:           Useful Stuff                          # OPTIONAL: text below author name in posts
+  bio:           minhphongvn                          # OPTIONAL: text below author name in posts
   location:      Viet Nam                     # OPTIONAL: used to display location of the author
   website:       http://minhphongvn.github.io/about           # OPTIONAL: link to the author of a post
   email:         #alexander.mcfarlane@physics.org    # OPTIONAL: used in the about page
@@ -28,7 +28,7 @@ am:
   name:             "Nguyen Minh Phong"
   cover:            /assets/Cliffs.jpg
   picture:          /assets/face.jpg
-  bio:              Useful Stuff
+  bio:              minhphongvn
   location:         Viet Nam
   website:          http://minhphongvn.github.io/about
 #  email:            alexander.mcfarlane@physics.org

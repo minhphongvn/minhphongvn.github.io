@@ -9,6 +9,6 @@ excerpt:   If you click on the link below it will render all content of the blog
 ---
 
 
-If you click on the link below it will render **all** content of the blog in one site. This can take some time! The positive thing about it is that you don't need any internet connection after the site has rendered and you can print the site as pdf.
+Nếu bạn nhấp vào liên kết bên dưới, nó sẽ hiển thị **tất cả** nội dung của blog trong một trang web. Điều này có thể mất một ít thời gian! Điều tốt về nó là bạn không cần kết nối internet sau khi trang web được hiển thị và bạn trang web có thể in dưới dạng pdf.
 
-[Open the content offline]({{ site.github.url }}/offline)
+[Mở nội dung trực tuyến]({{ site.github.url }}/offline)

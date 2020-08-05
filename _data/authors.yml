@@ -13,7 +13,7 @@ default:
   linkedin:      minhphongvn                         # OPTIONAL: used in the about page
   xing:                                              # OPTIONAL: used in the about page
   github:        minhphongvn                           # OPTIONAL: used in the about page
-  stackoverflow: 4013571                             # OPTIONAL: used in the about page
+  # stackoverflow: 4013571                             # OPTIONAL: used in the about page
   facebook:  minhphonglhu                              # OPTIONAL: used in the about page
   gplus:                                             # OPTIONAL: used in the about page
   soundcloud:                                        # OPTIONAL: used in the about page
@@ -21,7 +21,7 @@ default:
   pinterest:                                         # OPTIONAL: used in the about page
   dribble:                                           # OPTIONAL: used in the about page
   behance:                                           # OPTIONAL: used in the about page
-  cv:           /media/pdf/Alexander_McFarlane.pdf
+  # cv:           /media/pdf/Alexander_McFarlane.pdf
 #  This is thge information that will be displayed for the author described as am
 am:
   initial:          am

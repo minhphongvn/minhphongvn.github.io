@@ -3,8 +3,8 @@ layout:    about
 permalink: "/about/"
 author:    am
 keywords:  about profile
-title:     Về tôi
-menutitle: Về tồi
+title:     Về  tôi
+menutitle: Về  tồi
 weight:    90
 excerpt:   Một vài mô tả đơn giản về tôi 
 ---

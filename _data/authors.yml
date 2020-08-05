@@ -2,17 +2,17 @@
 # It also demonstrates the options availabel when creating new authors
 default:
   initial:       am                                  # used for author lookup in posts
-  name:          "Alex McFarlane"                    # used to display author name
+  name:          "minhphongvn"                    # used to display author name
   cover:         /assets/Cliffs.jpg                    # OPTIONAL: defines location of cover image in about page
   picture:       /assets/face.jpg                  # OPTIONAL: author picture
   bio:           Useful Stuff                          # OPTIONAL: text below author name in posts
-  location:      United Kingdom                      # OPTIONAL: used to display location of the author
-  website:       http://flipdazed.github.io/about           # OPTIONAL: link to the author of a post
+  location:      Viet Nam                     # OPTIONAL: used to display location of the author
+  website:       http://minhphongvn.github.io/about           # OPTIONAL: link to the author of a post
   email:         #alexander.mcfarlane@physics.org    # OPTIONAL: used in the about page
   twitter:                                           # OPTIONAL: used in the about page
-  linkedin:      asmcfarlane                         # OPTIONAL: used in the about page
+  linkedin:      minhphongvn                         # OPTIONAL: used in the about page
   xing:                                              # OPTIONAL: used in the about page
-  github:        flipdazed                           # OPTIONAL: used in the about page
+  github:        minhphonvn                           # OPTIONAL: used in the about page
   stackoverflow: 4013571                             # OPTIONAL: used in the about page
   facebook:                                          # OPTIONAL: used in the about page
   gplus:                                             # OPTIONAL: used in the about page
@@ -25,14 +25,14 @@ default:
 #  This is thge information that will be displayed for the author described as am
 am:
   initial:          am
-  name:             "Alex McFarlane"
+  name:             "Nguyen Minh Phong"
   cover:            /assets/Cliffs.jpg
   picture:          /assets/face.jpg
   bio:              Useful Stuff
-  location:         United Kingdom
-  website:          http://flipdazed.github.io/about
+  location:         Viet Nam
+  website:          http://minhphongvn.github.io/about
 #  email:            alexander.mcfarlane@physics.org
-  linkedin:         asmcfarlane
-  github:           flipdazed
-  stackoverflow:    4013571
-  cv:               /media/pdf/Alexander_McFarlane.pdf
+  linkedin:         minhphongvn
+  github:           minhphongvn
+  # stackoverflow:    4013571
+  # cv:               /media/pdf/Alexander_McFarlane.pdf

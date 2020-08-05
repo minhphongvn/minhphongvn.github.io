@@ -6,17 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:              Alex McFarlane
-subtitle:           Useful Stuff
+title:              Phong Nguyen
+subtitle:           Code, làm, học, chơi, ăn, ngủ, than, thở.
 description:        
-keywords:           physics monte-carlo mathematics hamiltonian-monte-carlo hmc
-                    quantitative-finance deep learning neural networks cloud python
-                    learning blog
-language:           "en" # default language of the blog. Language codes:
+keywords:           physics kotlin  python java android opencv learning blog
+language:           "vi" # default language of the blog. Language codes:
                          # www.w3schools.com/tags/ref_language_codes.asp
 baseurl:            ""   # the subpath of your site, e.g. /blog
 # the base hostname & protocol for your site. Look at robots.txt as well!
-url:                "http://flipdazed.github.io"
+url:                "http://minhphongvn.github.io"
 permalink:          /blog/:categories/:title
 cover:              /assets/math2.jpg
 disqus_shortname:   flipdazed

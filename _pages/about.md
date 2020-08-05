@@ -4,7 +4,7 @@ permalink: "/about/"
 author:    am
 keywords:  about profile
 title:     Về  tôi
-menutitle: Về  tồi
+menutitle: Về  tôi
 weight:    90
 excerpt:   Một vài mô tả đơn giản về tôi 
 ---

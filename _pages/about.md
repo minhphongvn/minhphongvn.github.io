@@ -29,7 +29,6 @@ Tôi có xu hướng luôn bận rộn.
 #### To Do
 
  - Build a shop online `LAHAI`
-
 <!-- #### Previous
 
  - Deep Learning (DBNs/CNNs) for Weather Modelling `python`

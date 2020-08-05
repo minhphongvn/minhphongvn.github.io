@@ -6,33 +6,31 @@ keywords:  about profile
 title:     About Me
 menutitle: About Me
 weight:    90
-excerpt:   A simple description for a simple being.
+excerpt:   Một vài mô tả đơn giản về tôi
 ---
 
-I recently completed my master's degree in Theoretical Physics at The University of Edinburgh 
-with a focus on quantum field theory and lattice field theory. 
-I spend most of my time right now coding or doing maths, although blog entries will be quite
-code-heavy for a while !
+Hiện tại tôi là sinh viên công nghệ thông tin tại Đại hoc Lạc Hồng. Tôi thích tò mò nghiên cứu về khoa học công nghệ. Môn thể thao mà tôi chơi là võ thuật. Tôi thích đi dạo offline và cả online.
 
-**key languages** `python` `mathematica` `Fortran` `VBA`\\
+**key languages** `python` `c++` `java` `android`\\
 **hacky languages** `C++` `C` `SQL` `bash` `regex` `xpath` `css` `html`
 
 ---
 
-## Projects
+## Tích cách
 
-I tend to keep busy. Here's a list of some of the things I have been up to.
+Tôi có xu hướng luôn bận rộn. 
+<!-- Đây là danh sách một số điều tôi đã làm. -->
 
-#### Current
+#### Hiện tại
 
- - A python course for finance
- - Reinforcement learning for market making
+ - Cuộc đua số 2019 - 2020
+ - Học Flutter
 
 #### To Do
 
- - Build a half pipe `plywood`
+ - Build a shop online `LAHAI`
 
-#### Previous
+<!-- #### Previous
 
  - Deep Learning (DBNs/CNNs) for Weather Modelling `python`
  - Further develop Hybrid Monte Carlo library `python`
@@ -45,13 +43,19 @@ I tend to keep busy. Here's a list of some of the things I have been up to.
  - BFGS solver `Fortran`
  - Genetic Algorithm `Fortran`
  - Binomial pricing model `Fortran`
- - Neural Nets `Fortran`
+ - Neural Nets `Fortran` -->
 
 ---
 
-## Random
+<!-- ## Random
 I drink lots of coffee but don't really like it. Top speed on a snowboard is just under 80mph. I set my tabs to four spaces. Favourite beer is Guinness.
 
-> Physics is like sex: sure, it may give some practical results, but that's not why we do it
+> Physics is like sex: sure, it may give some practical results, but that's not why we do it -->
 >
-> <cite>Richard Feynman</cite>
+<!-- > <cite>Richard Feynman</cite> -->
+
+## Thần tượng
+
+- Nikolai Tesla
+- Steve Jobs
+- Elon Musk

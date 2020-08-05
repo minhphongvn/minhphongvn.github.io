@@ -14,7 +14,7 @@ default:
   xing:                                              # OPTIONAL: used in the about page
   github:        minhphongvn                           # OPTIONAL: used in the about page
   stackoverflow: 4013571                             # OPTIONAL: used in the about page
-  facebook:                                          # OPTIONAL: used in the about page
+  facebook:  minhphonglhu                              # OPTIONAL: used in the about page
   gplus:                                             # OPTIONAL: used in the about page
   soundcloud:                                        # OPTIONAL: used in the about page
   youtube:                                           # OPTIONAL: used in the about page
@@ -34,5 +34,6 @@ am:
 #  email:            alexander.mcfarlane@physics.org
   linkedin:         minhphongvn
   github:           minhphongvn
+  facebook:         minhphonglhu
   # stackoverflow:    4013571
   # cv:               /media/pdf/Alexander_McFarlane.pdf

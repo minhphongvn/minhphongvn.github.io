@@ -69,7 +69,8 @@ Có 8 loại dữ liệu nguyên thủy (**primitive data**) trong JAVA:
 | float        | Số thực 32 bit     | 32     | -3.4028235 x 10^38                 | 3.4028235 x 10^38                   |
 | double       | Số thực 64 bit     | 64     | -1.7976931348623157 x 10^308       | 1.7976931348623157 x 10^308         |
 | boolean      | Kiểu logic         |        | false                              | true                                |
-| char         | Kiểu ký tự         | 16     | '\u0000' (0)                       | '\uffff' (65,535).                  |
+| char         | Kiểu ký tự         | 16     | '\u0000' (0)                       | '\uffff' (65,535).                  |               |
+
 ## 4- Biến (Variable)
 
 Nhấn phải chuột vào src chọn  **"New/Package"**:

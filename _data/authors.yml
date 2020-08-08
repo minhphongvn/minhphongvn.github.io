@@ -3,7 +3,7 @@
 default:
   initial:       am                                  # used for author lookup in posts
   name:          "minhphongvn"                    # used to display author name
-  cover:         /assets/joker.jpg                    # OPTIONAL: defines location of cover image in about page
+  cover:         /assets/download.png                    # OPTIONAL: defines location of cover image in about page
   picture:       /assets/face.jpg                  # OPTIONAL: author picture
   bio:           minhphongvn                          # OPTIONAL: text below author name in posts
   location:      Viet Nam                     # OPTIONAL: used to display location of the author
@@ -26,7 +26,7 @@ default:
 am:
   initial:          am
   name:             "Nguyen Minh Phong"
-  cover:            /assets/joker.jpg
+  cover:            /assets/download.png
   picture:          /assets/face.jpg
   bio:              minhphongvn
   location:         Viet Nam

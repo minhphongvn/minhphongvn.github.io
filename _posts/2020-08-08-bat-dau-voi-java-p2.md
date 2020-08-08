@@ -20,11 +20,11 @@ comments: true
 
 # Học nhanh Java cơ bản (P2)
 
-## Giới thiệu
+## 1-Giới thiệu
 
 Trong bài viết này chúng ta sẽ được tiếp cận nhanh Java, cách trình bày của tôi là cực kỳ ngắn gọn. Nếu bạn là một người mới bắt đầu với Java, bạn không chỉ nên đọc mà còn phải thực hành để kiểm chứng những gì trong tài liệu này liệu có xác thực.
 
-## Tạo mới Project
+## 2-Tạo mới Project
 
 Trước hết chúng ta tạo mới một Project, nó sẽ được sử dụng trong hướng dẫn này.
 
@@ -48,7 +48,7 @@ Nhấn phải chuột vào Project chọn Properties:
 
 ![](https://o7planning.org/vi/10161/images/12343523.png)
 
-## 3- Các kiểu dữ liệu nguyên thủy (Primitive Data Types)
+## 3-Các kiểu dữ liệu nguyên thủy (Primitive Data Types)
 
 Có 8 loại dữ liệu nguyên thủy (**primitive data**) trong JAVA:
 
@@ -72,7 +72,7 @@ Có 8 loại dữ liệu nguyên thủy (**primitive data**) trong JAVA:
 | **char**         | Kiểu ký tự         | 16     | '\u0000' (0)                       | '\uffff' (65,535).                  |
 
 
-## 4- Biến (Variable)
+## 4-Biến (Variable)
 
 Nhấn phải chuột vào src chọn  **"New/Package"**:
 

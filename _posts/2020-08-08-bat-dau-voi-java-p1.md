@@ -250,4 +250,4 @@ Có vẻ đơn giản hơn so với Window ấy nhỉ!
 
 ## #Tạm kết
 
-Rồi có vẻ hơi dài, hẹn gặp các bạn ở phần 2 của bài viết. Ở phần thứ 2 chúng ta sẽ bắt đầu đến với việc vật lộn với code Java, [phần 2](https://minhphongvn.github.io/blog/java%20tutorial/bat-dau-voi-java-p2).
+Rồi có vẻ hơi dài, hẹn gặp các bạn ở phần 2 của bài viết. Ở phần thứ 2 chúng ta sẽ bắt đầu đến với việc vật lộn với code Java, [**phần 2**](https://minhphongvn.github.io/blog/java%20tutorial/bat-dau-voi-java-p2).

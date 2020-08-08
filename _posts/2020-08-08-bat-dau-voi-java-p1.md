@@ -251,9 +251,3 @@ Có vẻ đơn giản hơn so với Window ấy nhỉ!
 ## #Tạm kết
 
 Rồi có vẻ hơi dài, hẹn gặp các bạn ở phần 2 của bài viết. Ở phần thứ 2 chúng ta sẽ bắt đầu đến với việc vật lộn với code Java, phần 2.
-
-
-# References
-
-- [Java là gì? - Tại sao bạn nên học lập trình Java?](https://viettuts.vn/java#goto-h2-1)
-- [Bắt đầu với Java cần những gì?](https://o7planning.org/vi/10159/bat-dau-voi-java-can-nhung-gi#a705515)

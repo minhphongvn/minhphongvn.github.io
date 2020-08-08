@@ -50,12 +50,12 @@ Nhấn phải chuột vào Project chọn Properties:
 
 ## 3- Các kiểu dữ liệu nguyên thủy (Primitive Data Types)
 
-Có 8 loại dữ liệu nguyên thủy (primitive data) trong JAVA:
+Có 8 loại dữ liệu nguyên thủy (**primitive data**) trong JAVA:
 
--   Dùng cho kiểu số nguyên có 4 loại: byte, short, int, long
--   Kiểu số thực ta có: float, double
--   Kiểu ký tự: char
--   Kiểu logic: trả về giá trị true hoặc false (đúng hoặc sai)
+-   Dùng cho kiểu số nguyên có 4 loại: **byte**, **short**, **int**, **long**
+-   Kiểu số thực ta có: **float**, **double**
+-   Kiểu ký tự: **char**
+-   Kiểu logic (boolean): trả về giá trị **true** hoặc **false** (đúng hoặc sai)
 
 **Kiểu dữ liệu**
 

@@ -71,7 +71,6 @@ Có 8 loại dữ liệu nguyên thủy (**primitive data**) trong JAVA:
 | boolean      | Kiểu logic         |        | false                              | true                                |
 | char         | Kiểu ký tự         | 16     | '\u0000' (0)                       | '\uffff' (65,535).                  |
 
-
 ## 4- Biến (Variable)
 
 Nhấn phải chuột vào src chọn  **"New/Package"**:

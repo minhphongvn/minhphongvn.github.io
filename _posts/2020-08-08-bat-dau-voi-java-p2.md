@@ -59,7 +59,7 @@ Có 8 loại dữ liệu nguyên thủy (**primitive data**) trong JAVA:
 
 **Kiểu dữ liệu**
 
-```
+
 | Kiểu dữ liệu | Ghi chú            | Số bit | Giá trị nhỏ nhất                   | Giá trị lớn nhất                    |
 |--------------|--------------------|--------|------------------------------------|-------------------------------------|
 | byte         | Số tự nhiên 8 bit  | 8      | -128 (-2^7)                        | 127 (2^7-1)                         |
@@ -70,7 +70,7 @@ Có 8 loại dữ liệu nguyên thủy (**primitive data**) trong JAVA:
 | double       | Số thực 64 bit     | 64     | -1.7976931348623157 x 10^308       | 1.7976931348623157 x 10^308         |
 | boolean      | Kiểu logic         |        | false                              | true                                |
 | char         | Kiểu ký tự         | 16     | '\u0000' (0)                       | '\uffff' (65,535).                  |
-```
+
 
 ## 4- Biến (Variable)
 

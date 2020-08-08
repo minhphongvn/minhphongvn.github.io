@@ -16,7 +16,7 @@ baseurl:            ""   # the subpath of your site, e.g. /blog
 # the base hostname & protocol for your site. Look at robots.txt as well!
 url:                "http://minhphongvn.github.io"
 permalink:          /blog/:categories/:title
-cover:              /assets/math2.jpg
+cover:              /assets/download.png
 disqus_shortname:   flipdazed
 google_tracking_id: UA-84554204-1
 google_ad_client:   ca-pub-6286561277379272

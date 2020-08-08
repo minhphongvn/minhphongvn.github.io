@@ -255,8 +255,5 @@ Rồi có vẻ hơi dài, hẹn gặp các bạn ở phần 2 của bài viết.
 
 # References
 
-- [Implementing the XOR Gate using Backprop. in a Neural Network](https://towardsdatascience.com/implementing-the-xor-gate-using-backpropagation-in-neural-networks-c1f255b4f20d)
-- [Solving XOR with a Single Perceptron](https://medium.com/@lucaspereira0612/solving-xor-with-a-single-perceptron-34539f395182)
-- [Training Neural Networks with Genetic Algorithms](https://blog.abhranil.net/2015/03/03/training-neural-networks-with-genetic-algorithms/)
-- [Stanford CS Vanishing Gradient Example](https://cs224d.stanford.edu/notebooks/vanishing_grad_example.html)
-- [Wikipedia Signoid Function](https://en.wikipedia.org/wiki/Sigmoid_function)
+- [Java là gì? - Tại sao bạn nên học lập trình Java?](https://viettuts.vn/java#goto-h2-1)
+- [Bắt đầu với Java cần những gì?](https://o7planning.org/vi/10159/bat-dau-voi-java-can-nhung-gi#a705515)
